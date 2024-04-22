@@ -1,0 +1,7 @@
+Es una adaptacion de un flappy bird (mal hecho) hecha por mi del juego feed the dragon, 
+literal la logica del juego es mia, habia un tutorial de como hacer un flappy birds 
+en pygame pero utilizaba listas y funciones, explicarle eso a un nino es un poco 
+fastidioso, pero la verdadera razon es que el tutorial de internet duraba 2 horas,
+ eran la 1 de la manana y me dio flojera ver el video
+
+ Pero se desarrollo la logica :) 
